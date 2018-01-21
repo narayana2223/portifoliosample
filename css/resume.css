@@ -28,7 +28,6 @@ h2 {
   font-size: 3.5rem; }
 
 .subheading {
-
   text-transform: uppercase;
   font-weight: 500;
   font-family: 'Saira Extra Condensed', serif;
@@ -47,7 +46,6 @@ h2 {
     color: #BD5D38; }
 
 #sideNav .navbar-nav .nav-item .nav-link {
-color:rgba(76, 47, 47, 0.5);
   font-weight: 600;
   text-transform: uppercase; }
 
@@ -102,12 +100,12 @@ section.resume-section {
     padding-bottom: 3rem !important; } }
 
 .bg-primary {
-  background-color: #99bd38 !important; }
+  background-color: #BD5D38 !important; }
 
 .text-primary {
-  color:#824027 !important; }
+  color: #BD5D38 !important; }
 
 a {
-  color: #99bd38; }
+  color: #BD5D38; }
   a:hover, a:focus, a:active {
     color: #824027; }
